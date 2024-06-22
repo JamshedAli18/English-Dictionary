@@ -2,7 +2,7 @@
 Introduction:
 The English Dictionary project using Java with Binary Search Algorithm is a software development project aimed at building a comprehensive and user-friendly English language dictionary application. The project is designed to help users find the meaning and usage of words in the English language easily and quickly. With the widespread use of the English language globally, the need for a reliable and efficient English dictionary application cannot be overstated.
 
-Algorithm.....................
+## Algorithm
 
 Step 1: Define the DictionaryApp class
 private String[] words
